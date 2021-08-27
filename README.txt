@@ -4,7 +4,7 @@ In this project, we're going to use the Google geocoding API to clean up some us
 
 Note: Because Windows has problems showing UTF-8 characters in the console, you may need to type the following command before running this code for each command window you open:
 
-65001 chcp
+chcp 65001 
 
 http://stackoverflow.com/questions/388490/unicode-characters-in-windows-command-line-how
 
@@ -51,7 +51,7 @@ Once some data has been put into geodata.sqlite, the (geodump.py) application ca
 
 The geodump.py program is executed as follows:
 
-Python3 geodump.py for Mac
+Python3 geodump.py FOR WINDOWS
 Geodump.py
 
 This is a JavaScript collection of collections. JavaScript list constants have a syntax that is extremely similar to Python, so you should be comfortable with it.
